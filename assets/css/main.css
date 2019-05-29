@@ -3246,6 +3246,30 @@
 		margin-top: -14em;
 	}
 
+	#main > h1{
+		font-size: 2.5em;
+		text-align: center;
+		margin-bottom: 1em
+	}
+
+	.skill-logo{
+		height: 6.5em;
+		width: 6.5em;
+		margin: 0.5em
+	}
+
+	.features-row section h2{
+		font-size: 5em;
+	}
+
+	#skills-label{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		height: 20em;
+	}
+
 /* Footer */
 
 	#footer {
