@@ -3185,6 +3185,10 @@
 			margin-bottom: 1.75em;
 		}
 
+		#banner p a {
+			color: white;
+		}
+
 		#banner input[type="submit"],
 		#banner input[type="reset"],
 		#banner input[type="button"],
